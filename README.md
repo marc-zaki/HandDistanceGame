@@ -8,6 +8,11 @@ This project is a virtual Hand Distance Game, the main goal is to collect as man
 
   
 ## To run this game, you'll need the following dependencies:
-Cvzone: pip install cvzone.
-<br>
-Mediapipe: pip install mediapipe.
+* Cvzone: 
+```bash
+pip install cvzone
+```
+* Mediapipe: 
+```bash
+pip install mediapipe
+```
